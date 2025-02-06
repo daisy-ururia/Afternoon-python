@@ -34,8 +34,12 @@
   "keyToString": {
     "Python.Operators.executor": "Run",
     "Python.String.executor": "Run",
+    "Python.arrays.executor": "Run",
+    "Python.assignment.executor": "Run",
+    "Python.controlstatements.executor": "Run",
     "Python.datatype.executor": "Run",
     "Python.introduction.executor": "Run",
+    "Python.loops.executor": "Run",
     "Python.variable.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -68,6 +72,7 @@
       <workItem from="1738641991249" duration="280000" />
       <workItem from="1738705806478" duration="1029000" />
       <workItem from="1738708205562" duration="6096000" />
+      <workItem from="1738792902226" duration="8985000" />
     </task>
     <servers />
   </component>
@@ -75,10 +80,14 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1738867615537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$String.coverage" NAME="String Coverage Results" MODIFIED="1738712818885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AfternoonPythonClass$datatype.coverage" NAME="datatype Coverage Results" MODIFIED="1738711307274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$datatype.coverage" NAME="datatype Coverage Results" MODIFIED="1738798282556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$variable.coverage" NAME="variable Coverage Results" MODIFIED="1738708208279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$controlstatements.coverage" NAME="controlstatements Coverage Results" MODIFIED="1738796874911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1738800150302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$introduction.coverage" NAME="introduction Coverage Results" MODIFIED="1738640819113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$loops.coverage" NAME="loops Coverage Results" MODIFIED="1738798457275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$Operators.coverage" NAME="Operators Coverage Results" MODIFIED="1738714270761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
