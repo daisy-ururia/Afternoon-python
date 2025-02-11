@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="557f5182-4943-47ac-a7e8-69b6969c1f50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplecalculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,18 +33,23 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Employee.executor&quot;: &quot;Run&quot;,
     &quot;Python.Operators.executor&quot;: &quot;Run&quot;,
     &quot;Python.String.executor&quot;: &quot;Run&quot;,
     &quot;Python.arrays.executor&quot;: &quot;Run&quot;,
     &quot;Python.assignment.executor&quot;: &quot;Run&quot;,
     &quot;Python.controlstatements.executor&quot;: &quot;Run&quot;,
     &quot;Python.datatype.executor&quot;: &quot;Run&quot;,
+    &quot;Python.encapsulation.executor&quot;: &quot;Run&quot;,
     &quot;Python.exceptionhandling.executor&quot;: &quot;Run&quot;,
     &quot;Python.functions.executor&quot;: &quot;Run&quot;,
     &quot;Python.introduction.executor&quot;: &quot;Run&quot;,
     &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mathmodule.executor&quot;: &quot;Run&quot;,
     &quot;Python.module.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oop1.executor&quot;: &quot;Run&quot;,
     &quot;Python.perimeter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
     &quot;Python.primenumber.executor&quot;: &quot;Run&quot;,
     &quot;Python.school.executor&quot;: &quot;Run&quot;,
     &quot;Python.simplecalculator.executor&quot;: &quot;Run&quot;,
@@ -61,6 +67,36 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration name="encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AfternoonPythonClass" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/encapsulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.encapsulation" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -84,7 +120,9 @@
       <workItem from="1738792902226" duration="9375000" />
       <workItem from="1738878973319" duration="8463000" />
       <workItem from="1738967287486" duration="6607000" />
-      <workItem from="1739224651127" duration="1639000" />
+      <workItem from="1739224651127" duration="11910000" />
+      <workItem from="1739253329480" duration="354000" />
+      <workItem from="1739299982584" duration="1907000" />
     </task>
     <servers />
   </component>
@@ -92,23 +130,28 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/AfternoonPythonClass$primenumber.coverage" NAME="primenumber Coverage Results" MODIFIED="1738972999839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$primenumber.coverage" NAME="primenumber Coverage Results" MODIFIED="1739226866953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$functions.coverage" NAME="functions Coverage Results" MODIFIED="1738886828252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$variable.coverage" NAME="variable Coverage Results" MODIFIED="1738708208279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$controlstatements.coverage" NAME="controlstatements Coverage Results" MODIFIED="1738796874911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$oop1.coverage" NAME="oop1 Coverage Results" MODIFIED="1739229860385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$arrays.coverage" NAME="arrays Coverage Results" MODIFIED="1738800150302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$introduction.coverage" NAME="introduction Coverage Results" MODIFIED="1738640819113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$mathmodule.coverage" NAME="mathmodule Coverage Results" MODIFIED="1739301997380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$Operators.coverage" NAME="Operators Coverage Results" MODIFIED="1738714270761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$assignment.coverage" NAME="assignment Coverage Results" MODIFIED="1738881422431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$Employee.coverage" NAME="Employee Coverage Results" MODIFIED="1739230725154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$String.coverage" NAME="String Coverage Results" MODIFIED="1738712818885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$school.coverage" NAME="school Coverage Results" MODIFIED="1738968230579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$datatype.coverage" NAME="datatype Coverage Results" MODIFIED="1738798282556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$exceptionhandling.coverage" NAME="exceptionhandling Coverage Results" MODIFIED="1738969551307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$encapsulation.coverage" NAME="encapsulation Coverage Results" MODIFIED="1739301906781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$loops.coverage" NAME="loops Coverage Results" MODIFIED="1738798457275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$userinputoutput.coverage" NAME="userinputoutput Coverage Results" MODIFIED="1738882354828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$trapezium.coverage" NAME="trapezium Coverage Results" MODIFIED="1738883441544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AfternoonPythonClass$simplecalculator.coverage" NAME="simplecalculator Coverage Results" MODIFIED="1738973582902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$simplecalculator.coverage" NAME="simplecalculator Coverage Results" MODIFIED="1739253380436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$perimeter.coverage" NAME="perimeter Coverage Results" MODIFIED="1738882957768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$module.coverage" NAME="module Coverage Results" MODIFIED="1738967827417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$polymorphism.coverage" NAME="polymorphism Coverage Results" MODIFIED="1739233298752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -4,16 +4,12 @@ number1 = int(input("Enter first number: "))
 number2 = int(input("Enter second number: "))
 opr = input("Enter operation: ")
 if opr == "+":
-    ans =(number1 + number2)
-    print(ans)
+    print(number1 + number2)
 elif opr == "-":
-    ans =(number1 - number2)
-    print(ans)
+    print(number1 - number2)
 elif opr == "*":
-    ans = (number1 * number2)
-    print(ans)
+    print(number1 * number2)
 elif opr == "/":
-    ans =(number1 / number2)
-    print(ans)
+    print(number1 / number2)
 else:
     print("Invalid operation")
