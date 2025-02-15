@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="557f5182-4943-47ac-a7e8-69b6969c1f50" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/simplecalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/simplecalculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/encapsulation.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +123,9 @@
       <workItem from="1739224651127" duration="11910000" />
       <workItem from="1739253329480" duration="354000" />
       <workItem from="1739299982584" duration="1907000" />
+      <workItem from="1739310943553" duration="1958000" />
+      <workItem from="1739400105377" duration="746000" />
+      <workItem from="1739487343015" duration="6000" />
     </task>
     <servers />
   </component>
@@ -145,7 +148,7 @@
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$school.coverage" NAME="school Coverage Results" MODIFIED="1738968230579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$datatype.coverage" NAME="datatype Coverage Results" MODIFIED="1738798282556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$exceptionhandling.coverage" NAME="exceptionhandling Coverage Results" MODIFIED="1738969551307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/AfternoonPythonClass$encapsulation.coverage" NAME="encapsulation Coverage Results" MODIFIED="1739301906781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AfternoonPythonClass$encapsulation.coverage" NAME="encapsulation Coverage Results" MODIFIED="1739311465550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$loops.coverage" NAME="loops Coverage Results" MODIFIED="1738798457275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$userinputoutput.coverage" NAME="userinputoutput Coverage Results" MODIFIED="1738882354828" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/AfternoonPythonClass$trapezium.coverage" NAME="trapezium Coverage Results" MODIFIED="1738883441544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />

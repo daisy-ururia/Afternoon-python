@@ -15,8 +15,6 @@ class Person:
     def get_age(self):
         return self.__age
 p1= Person("Abigael", 22)
-p2 = Person("John", 32)
-p3 = Person("Mitchelle", 25)
 p1.set_age(20)
 print(p1.get_age())
 p1.set_name("Abigael")
